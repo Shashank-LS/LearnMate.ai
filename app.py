@@ -10,7 +10,7 @@ from PyPDF2 import PdfReader
 import docx as docx
 
 # Set up Gemini API - Add your correct API key here
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyBXKl1WCCtS2qy6o_eUE6WsyKwOlB3MlcM'  # Replace with your actual API key
+os.environ['GOOGLE_API_KEY'] = 'GOOGLE_API_KEY'  # Replace with your actual API key
 genai.configure(api_key=os.environ['GOOGLE_API_KEY'])
 
 # Set up LM Studio API
