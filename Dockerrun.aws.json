@@ -1,0 +1,14 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "anirudh06/learnmate-ai:latest"
+  },
+  "Ports":[
+  {"ContainerPort": "8501"}
+  ]
+}
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> refs/remotes/origin/main
